@@ -2,7 +2,6 @@
 
 ## v2.1.0 (2022-05-09)
 ## New Features:
-- Support for Gov Cloud identities.
 - Push Notifications support for stopping an incoming call because it was answered in another device, or caller cancelled, etc.
 
 ### Bug Fixes
