@@ -1,7 +1,8 @@
 # ACS Calling Android (Java) SDK - Release History
 
-## v2.1.0 (2022-05-09)
+## v2.1.0 (2022-06-01)
 ## New Features:
+- Voice and video calling support in Azure government.
 - Push Notifications support for stopping an incoming call because it was answered in another device, or caller cancelled, etc.
 
 ### Bug Fixes
